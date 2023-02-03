@@ -353,7 +353,7 @@
                 "title":"Introducir PIN",
                 "deleteButtonText": "<i class='fa-solid fa-ban'></i>",
                 "loginButtonText": "<i class='fa-solid fa-right-to-bracket'></i>",
-                "closeButtonText": "Close"
+                "closeButtonText": "Cerrar"
             },
             {
                 "componentName":"atmComponent",
