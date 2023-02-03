@@ -365,8 +365,8 @@
         "LAUNGAGE": {
             "your_money_title":"Saldo",
             "your_money_desc":"Aquí puedes ver tu saldo actual y tu efectivo.",
-            "your_money_cash_label":"Su dinero en mano",
-            "your_money_bank_label":"Su saldo bancario",
+            "your_money_cash_label":"Dinero en efectivo",
+            "your_money_bank_label":"Saldo bancario",
             "withdraw":"RETIRAR",
             "deposit":"DEPÓSITO",
             "transfer":"TRANSFERENCIA",
@@ -378,7 +378,7 @@
             "inputErrorTitle":"Data is incorrect",
             "inputErrorMessage":"No puede estar vacío ni tener un valor inferior a 1.",
             "showPincodeErrorTitle":"PIN incorrecto",
-            "showPincodeErrorMessage":"El pin debe tener al menos 4 caracteres.",
+            "showPincodeErrorMessage":"El pin debe de tener al menos 4 caracteres.",
             "tableLang":{
                 "typeLabel": "Tipo de transacción",
                 "balanceLabel":"Saldo",
